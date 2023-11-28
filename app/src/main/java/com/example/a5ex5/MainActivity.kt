@@ -1,3 +1,5 @@
+//Fiz um pouco diferente o Shared Preference, e alterei somente alguns detalhes no Layout.
+
 package com.example.a5ex5
 
 import android.content.SharedPreferences
